@@ -1,0 +1,22 @@
+{
+  "name": "doublecookie",
+  "version": "1.0.1",
+  "description": "Basic CSRF prevention with double cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drwndrsn/doublecookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drwndrsn/doublecookie/issues"
+  },
+  "homepage": "https://github.com/drwndrsn/doublecookie#readme",
+  "dependencies": {
+    "randomatic": "^1.1.7"
+  }
+}
