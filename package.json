@@ -1,8 +1,12 @@
 {
   "name": "doublecookie",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Basic CSRF prevention with double cookies",
-  "keywords": ["double", "submit", "cookie"],
+  "keywords": [
+    "double",
+    "submit",
+    "cookie"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
