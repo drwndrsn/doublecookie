@@ -1,6 +1,6 @@
 {
   "name": "doublecookie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic CSRF prevention with double cookies",
   "main": "index.js",
   "scripts": {
