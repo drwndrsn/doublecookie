@@ -1,2 +1,2 @@
 # doublecookie
-Basic CSRF prevention with double cookies
+Basic CSRF prevention with double submit cookie
