@@ -5,7 +5,8 @@
   "keywords": [
     "double",
     "submit",
-    "cookie"
+    "cookie",
+    "security middleware"
   ],
   "main": "index.js",
   "scripts": {
