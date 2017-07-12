@@ -1,6 +1,6 @@
 {
   "name": "doublecookie",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Basic CSRF prevention with double cookies",
   "keywords": [
     "double",
