@@ -36,7 +36,6 @@ const doubleCookie = function (options) {
         if (postMethods.includes(req.method)) {
             // If there's no cookie or the cookie doesn't match its hash
             if ((!req.signedCookies.dblCookie) || hash(req.signedCookies.dblCookie) !== req.body.postCheck) {
-                console.log("double", req.signedCookies.dblCookie)
                 return (next(new Error('DoubleCookie CSRF')))
             } 
         }
